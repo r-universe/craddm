@@ -1,0 +1,8 @@
+[
+  {
+    "package": "infomax",
+    "url": "https://github.com/eegverse/infomax",
+    "via": ["eegUtils"],
+    "from": "eegUtils"
+  }
+]

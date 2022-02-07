@@ -8,3 +8,8 @@
 	url = https://github.com/craddm/eegUtils
 	shallow = true
 	registered = true
+[submodule "infomax"]
+	path = infomax
+	url = https://github.com/eegverse/infomax
+	shallow = true
+	registered = false
