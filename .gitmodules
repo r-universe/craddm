@@ -1,15 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/craddm/universe
-	shallow = true
 	branch = HEAD
 [submodule "eegUtils"]
 	path = eegUtils
 	url = https://github.com/craddm/eegUtils
-	shallow = true
-	registered = true
 [submodule "infomax"]
 	path = infomax
 	url = https://github.com/eegverse/infomax
-	shallow = true
 	registered = false
