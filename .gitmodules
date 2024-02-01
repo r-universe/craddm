@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/craddm/universe
+	url = https://github.com/craddm/craddm.r-universe.dev
 	branch = HEAD
 [submodule "eegUtils"]
 	path = eegUtils
