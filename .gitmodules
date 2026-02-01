@@ -5,7 +5,3 @@
 [submodule "eegUtils"]
 	path = eegUtils
 	url = https://github.com/craddm/eegUtils
-[submodule "infomax"]
-	path = infomax
-	url = https://github.com/eegverse/infomax
-	registered = false
